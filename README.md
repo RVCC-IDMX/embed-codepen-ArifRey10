@@ -11,4 +11,11 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[**Pen of the Week**](https://codepen.io)
+ 
+ <p class="codepen" data-height="740" data-default-tab="html,result" data-slug-hash="ZEZyGpo" data-user="ArifRey10" style="height: 740px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ArifRey10/pen/ZEZyGpo">
+  Embed</a> by ArifRey10 (<a href="https://codepen.io/ArifRey10">@ArifRey10</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
